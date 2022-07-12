@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diaa-rahem
+- 👋 Hi, I’m Diaa Rahem
 - 👀 I’m interested in Desktop / Web develepoment 
 - 🌱 I’m currently learning C# and xaml 
 - 📫 How to reach me 
