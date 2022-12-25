@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diaa Rahem
 - 👀 I’m interested in Desktop / Web develepoment 
-- 🌱 I’m currently learning C# and xaml 
+- 🌱 I’m currently learning react.
 - 📫 How to reach me 
 - Facebook : https://www.facebook.com/profile.php?id=100072801948791
 - LinkedIn :https://www.linkedin.com/in/dhiaa-rahem-37610a244/
